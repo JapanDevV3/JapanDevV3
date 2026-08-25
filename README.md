@@ -43,12 +43,6 @@ Full-Stack Developer based in Bangkok, Thailand — currently expanding into Dev
 
 ---
 
-### 🔧 Currently Building
-
-**[Action Combat System](https://github.com/JapanDevV3/UE5_Prototype_Co_Op)** — a combo-based melee and ranged combat system in Unreal Engine 5, built with C++ and the Gameplay Ability System (GAS), developed with a fellow developer.
-
----
-
 ### 📫 Connect
 
 📧 develop0131997@gmail.com
