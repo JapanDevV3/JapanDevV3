@@ -1,4 +1,4 @@
-# Hi, I'm Nattasit (Japan) 👋
+# Hi, I'm Nattasit (Japan)
 
 Full-Stack Developer based in Bangkok, Thailand — currently expanding into DevOps.
 
@@ -6,10 +6,10 @@ Full-Stack Developer based in Bangkok, Thailand — currently expanding into Dev
 
 ### About Me
 
-- 💼 Full-Stack Developer at **Pacific Prime Thailand**, building HR & insurance systems with Laravel
-- 🌱 Deepening my **DevOps** skills — already comfortable with Docker, now expanding into AWS, Kubernetes, Terraform, and CI/CD
-- 🚧 Building a side project with **Next.js**, alongside learning Node.js and Tailwind CSS
-- 💬 Happy to talk about Laravel, PHP, Vue.js, or web application architecture
+- Full-Stack Developer at **Pacific Prime Thailand**, building HR & insurance systems with Laravel
+- Deepening my **DevOps** skills — already comfortable with Docker, now expanding into AWS, Kubernetes, Terraform, and CI/CD
+- Building a side project with **Next.js**, alongside learning Node.js and Tailwind CSS
+- Happy to talk about Laravel, PHP, Vue.js, or web application architecture
 
 ---
 
@@ -46,6 +46,6 @@ Full-Stack Developer based in Bangkok, Thailand — currently expanding into Dev
 
 ---
 
-### 📫 Connect
+### Connect
 
 📧 develop0131997@gmail.com
