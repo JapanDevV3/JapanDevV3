@@ -7,7 +7,7 @@ Backend-focused Full-Stack Developer based in Bangkok, Thailand — PHP/Laravel,
 ### About Me
 
 - Full-Stack Developer at **Pacific Prime Thailand**, building an employee-benefits insurance platform for corporate clients with Laravel and Vue.js
-- Currently working on **API gateway security** and a **Laravel upgrade** for an internal API
+- Recently shipped an **API gateway** to production: migrated from Lumen 8 to **Laravel 13** and added security hardening, logging and unit tests
 - Building **[Tech-Freelance](https://github.com/JapanDevV3/Tech-Freelance)**, a freelance computer-repair marketplace with Next.js, TypeScript and PostgreSQL
 - Deepening my **DevOps** skills — comfortable with Docker and GitHub Actions, now learning AWS, Kubernetes and Terraform
 - Happy to talk about Laravel, PHP, Node.js, or web application architecture
